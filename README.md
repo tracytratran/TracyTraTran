@@ -8,6 +8,20 @@ Before tech, I was a dedicated administration officer, with solid soft skills li
 
 Outside of coding, you’ll probably find me doing yoga and pilates, or meditating like it’s a full-time job (mindfulness practitioner in progress 🧘‍♀️). Also, I’m a proud cat enthusiast, the internet and I have that in common.
 
+## Techstack
+
+|                      Programming Language                      |                                     Frontend Development                                      |
+| :------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=js,ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,sass" height="40" /> |
+
+|                           Backend Development                           |                            Database                             |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" /> | <img src="https://skillicons.dev/icons?i=sqlite" height="40" /> |
+
+|                                Software                                |                            Other                             |
+| :--------------------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=figma,postman" height="40" /> | <img src="https://skillicons.dev/icons?i=git" height="40" /> |
+
 ## Connect with me
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tracytratran)
