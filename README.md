@@ -31,11 +31,11 @@ Outside of coding, you’ll probably find me doing yoga and pilates, or meditati
     </p>
 </div>
 <div align="left">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's gitHub stats" height="170" />
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=tracytratran&show_icons=true&theme=dark&layout=compact" alt="Tracy's top programming languages" height="170" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's gitHub stats" />
 </div>
-<!-- <div align="left">
-</div> -->
+<div align="left">
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's top programming languages"  />
+</div>
 
 ## Connect with me
 
