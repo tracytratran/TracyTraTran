@@ -30,9 +30,11 @@ Outside of coding, you’ll probably find me doing yoga and pilates, or meditati
         <img src="https://www.codewars.com/users/tracytratran/badges/micro" alt="Tracy's codewars badge" height="40" />
     </p>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's gitHub stats" />
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's top programming languages" />
+<div align="left">
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's gitHub stats" />
+</div>
+<div align="left">
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's top programming languages" />
 </div>
 
 ## Connect with me
