@@ -24,18 +24,24 @@ Outside of coding, you’ll probably find me doing yoga and pilates, or meditati
 
 ## Badge & Stat
 
-<div align="left">
+<!-- <div align="left">
     <p justify-self="center">
         <a href="https://www.codewars.com/users/tracytratran" target="_blank">
         <img src="https://www.codewars.com/users/tracytratran/badges/micro" alt="Tracy's codewars badge" height="40" />
     </p>
 </div>
 <div align="left">
-    <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's gitHub stats" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tracytratran&show_icons=true&theme=github_dark" alt="Tracy's gitHub stats" />
 </div>
 <div align="left">
     <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=tracytratran&show_icons=true&theme=dark" alt="Tracy's top programming languages"  />
-</div>
+</div> -->
+            
+[![CodeWars Badge](https://www.codewars.com/users/tracytratran/badges/micro)](https://www.codewars.com/users/tracytratran)
+
+![GitHub Stats](https://github-readme-stats-five-opal-89.vercel.app/api?username=tracytratran&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats-five-opal-89.vercel.app/api/top-langs/?username=tracytratran&layout=compact&show_icons=true&theme=dark)
 
 ## Connect with me
 
